@@ -1,5 +1,5 @@
 # ***System rejestracji pacjentów na badania***  
-***Data wykonania: 10.12.2025***
+***Data wykonania: 07.05.2025***
 
 ## ***Opis projektu***  
 Projekt przedstawia prosty system rejestracji pacjentów na badania medyczne w formie aplikacji webowej.  
